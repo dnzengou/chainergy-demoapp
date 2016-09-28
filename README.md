@@ -1,7 +1,7 @@
 Chianergy based on bootcards-demo-app
 ==================
 
-/* Sample application to showcase the <a href="http://bootcards.org">Bootcards</a> UI framework. It can be viewed live at <a href="http://demo.bootcards.org" target="_blank">demo.bootcards.org</a>.
+<!-- Sample application to showcase the <a href="http://bootcards.org">Bootcards</a> UI framework. It can be viewed live at <a href="http://demo.bootcards.org" target="_blank">demo.bootcards.org</a>.
 
 View the app with different devices (iOS, Android, PC) to see the near-native look.
 
@@ -23,4 +23,4 @@ The following client libraries are used:
 - Font Awesome (icons)
 - morris.js (chart demos)
 	- Raphael
-	- Sizzle */
+	- Sizzle -->
